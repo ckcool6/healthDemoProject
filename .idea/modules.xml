@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/health_backend.iml" filepath="$PROJECT_DIR$/health_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_service_provider.iml" filepath="$PROJECT_DIR$/health_service_provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/itcast_health.iml" filepath="$PROJECT_DIR$/itcast_health.iml" />
     </modules>
   </component>
